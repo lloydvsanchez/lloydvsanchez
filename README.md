@@ -3,7 +3,7 @@
 
 <h3>Hi there 👋 I am Lloyd V. Sanchez,</h3>
 
-- 💻 I am a **Ruby on Rails Engineer**
+- 💻 a **Ruby on Rails Engineer**
 - 📚 interested in web development, data science, and automation 🤖
 - 🌾 currently learning Elixir
 - 🐧 Linux
@@ -28,7 +28,7 @@
     </p>
 </div>
 <div>
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Tools:</h4>
 <p align="left">
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
